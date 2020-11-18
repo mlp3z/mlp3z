@@ -1,8 +1,11 @@
-### Hi there 👋
+
+🏃‍ no olvides lo que bilbo decia... <br>
+<em>"es muy peligroso frodo, atravesar la puerta, pisas el camino y si no controlas tus pies no hay forma de saber a donde te llevaran"</em>
+
 
 <!--
 **mlp3z/mlp3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
